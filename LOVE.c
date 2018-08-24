@@ -2,6 +2,10 @@
 
 int main()
 {
-	printf("LOVE is great");
+	printf("Ordentamiento de burbuja");
+	int Numeros[10];
+	
+	
+	for (int i=0;i)
 	return 0;
 }
